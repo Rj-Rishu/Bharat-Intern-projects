@@ -6,13 +6,13 @@
     <title>Temperature Converter</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            font-family: Lucida handwriting,cursive;
+            background-color: brown;
             text-align: center;
         }
 
         #container {
-            background-color: #fff;
+            background-color: bisque;
             max-width: 400px;
             margin: 20px auto;
             padding: 20px;
@@ -21,11 +21,11 @@
         }
 
         h1 {
-            color: #333;
+            color: #00ace6;
         }
 
         label {
-            font-weight: bold;
+            font-family:cursive;
         }
 
         input[type="number"] {
@@ -37,7 +37,7 @@
         }
 
         button {
-            background-color: #007bff;
+            background-color: #00e673;
             color: #fff;
             border: none;
             padding: 10px 20px;
@@ -46,7 +46,7 @@
         }
 
         button:hover {
-            background-color: #0056b3;
+            background-color: #1affa3;
         }
     </style>
 </head>
